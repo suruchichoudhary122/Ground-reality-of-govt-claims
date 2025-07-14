@@ -1,0 +1,21 @@
+id,scheme,report_text,state,district,source,date,type
+1,Har Ghar Jal,"In Bundelkhand, women still walk 2 km to fetch water daily despite government claims",Uttar Pradesh,Banda,WaterAid,2024-03-15,field_report
+2,Har Ghar Jal,"63.4 million people in rural areas live without access to clean water",All India,All Districts,WaterAid,2024-06-01,survey
+3,Har Ghar Jal,"Water levels are below their 10-year averages in Uttar Pradesh",Uttar Pradesh,All Districts,Citizen Matters,2024-05-11,news
+4,Har Ghar Jal,"Uttar Pradesh is grappling with unabated use of groundwater resources",Uttar Pradesh,All Districts,Down to Earth,2023-06-12,news
+5,Har Ghar Jal,"Bihar and Uttar Pradesh had the lowest Water Performance Index scores",Bihar,All Districts,Economic Political Weekly,2024-08-22,research
+6,Har Ghar Jal,"Water-guzzling crops push Uttar Pradesh to the brink of groundwater crisis",Uttar Pradesh,All Districts,Down to Earth,2025-01-29,news
+7,Swachh Bharat,"Many toilets in rural areas lack water supply forcing open defecation",Bihar,Supaul,The Wire,2024-02-15,news
+8,Swachh Bharat,"Toilets constructed but not functional due to lack of water connections",Uttar Pradesh,Banda,Scroll.in,2024-03-01,news
+9,Saubhagya,"40% villages in remote areas still experience power cuts daily",Assam,Kokrajhar,NDTV,2024-04-01,news
+10,Saubhagya,"Electricity infrastructure exists but supply remains intermittent",Bihar,Darbhanga,The Hindu,2024-05-01,news
+11,PM Awas Yojana,"Houses built under PM Awas Yojana lack basic amenities like water",Uttar Pradesh,Varanasi,Indian Express,2024-06-01,news
+12,Har Ghar Jal,"Despite infrastructure water quality remains poor in rural areas",Uttar Pradesh,Banda,Local News,2024-07-01,field_report
+13,Har Ghar Jal,"Adolescent girls often miss school due to water collection duties",All India,All Districts,WaterAid,2024-06-01,survey
+14,Swachh Bharat,"Open defecation continues in areas without proper water supply",Bihar,Supaul,Ground Report,2024-08-01,field_report
+15,Har Ghar Jal,"Piped water connections exist but water supply is irregular",Uttar Pradesh,Banda,Twitter,2024-09-01,social_media
+16,Har Ghar Jal,"Groundwater depletion threatens long-term water security",Uttar Pradesh,All Districts,Down to Earth,2024-10-01,news
+17,Saubhagya,"Rural electrification incomplete in tribal areas",Assam,Karbi Anglong,The Wire,2024-11-01,news
+18,PM Awas Yojana,"Beneficiaries report poor construction quality in rural housing",Bihar,Muzaffarpur,Scroll.in,2024-12-01,news
+19,Har Ghar Jal,"Water scarcity continues despite government claims of success",Uttar Pradesh,Banda,Local Survey,2025-01-01,survey
+20,Swachh Bharat,"Toilet usage low due to lack of water and maintenance",Bihar,Supaul,Field Study,2025-02-01,field_report
