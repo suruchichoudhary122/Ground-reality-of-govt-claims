@@ -1,4 +1,4 @@
-🇮🇳 AI to Detect Policy vs Practice Gaps in Government Schemes
+_**AI to Detect Policy vs Practice Gaps in Government Schemes**_
 🤖 An NLP-based project to identify contradictions between government policy claims and ground reality reports using Natural Language Inference (NLI).
 
 📌 Problem Statement
@@ -73,3 +73,4 @@ Har Ghar Jal	All homes now have tap water	Women still walk 2 km in Banda for wat
   Field reports from WaterAid, The Wire, NDTV, DownToEarth, Scroll.in, etc.
   NLP tools by HuggingFace Transformers
   
+
